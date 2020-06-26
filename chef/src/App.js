@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome Chef!</h1>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://freeiconshop.com/wp-content/uploads/edd/youtube-flat.png" alt="youtube-icon"/>
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           A place to find great recipes
         </p>
